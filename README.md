@@ -38,6 +38,7 @@ Contributor Covenant, as described at [the Contributor Covenant website](https:/
 ## Tests
 
 See screenshots below:
+![demo screenshot](./demo.png)
 
 ## Questions
 
